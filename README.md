@@ -1,0 +1,2 @@
+# EmeraldBux
+Pay for Ads
